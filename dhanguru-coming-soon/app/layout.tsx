@@ -5,6 +5,9 @@ export const metadata: Metadata = {
   title: 'DhanGuru',
   description: 'Created with v0',
   generator: 'v0.dev',
+  icons: {
+    icon: logo.png
+  },
 }
 
 export default function RootLayout({
