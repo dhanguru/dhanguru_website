@@ -19,7 +19,7 @@ export default function Home() {
             />
           </div>
           <p className="text-xl font-medium text-green-700 sm:text-2xl">
-             Your Personal AI Finance Assistant,nComing Soon!
+             Your Personal AI Finance Assistant, Coming Soon!
           </p>
         </div>
 
