@@ -3,10 +3,10 @@ import './globals.css'
 
 export const metadata: Metadata = {
   title: 'DhanGuru',
-  description: 'Created with v0',
+  description: 'Created by SPRAVYS',
   generator: 'v0.dev',
   icons: {
-    icon: dhanguru-coming-soon/public/images/logo.png,
+    icon: '/images/logo.png',
   },
 }
 
