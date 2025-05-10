@@ -6,7 +6,7 @@ export const metadata: Metadata = {
   description: 'Created by SPRAVYS',
   generator: 'v0.dev',
   icons: {
-    icon: '/images/logo.png',
+    icon: '/images/DhanGuru.png',
   },
 }
 
