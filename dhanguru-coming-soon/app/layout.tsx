@@ -6,7 +6,7 @@ export const metadata: Metadata = {
   description: 'Created with v0',
   generator: 'v0.dev',
   icons: {
-    icon: logo.png,
+    icon: dhanguru-coming-soon/public/images/logo.png,
   },
 }
 
